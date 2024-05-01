@@ -28,4 +28,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 :fire: My Stats :
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=NAGULKS&hide_border=true&border_radius=8&card_width=800" alt="GitHub Streak" /></a>
+<div
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=NAGULKS&hide_border=true&border_radius=8&card_width=800" alt="GitHub Streak" /></a>>
+</div>
