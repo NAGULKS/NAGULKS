@@ -6,5 +6,6 @@
   </a>
 
 </div>
- https://komarev.com/ghpvc/?username=NAGULKS
+
+ <img src="https://komarev.com/ghpvc/?username=NAGULKS&style=flat-square&color=blue" alt=""/>
 </div>
