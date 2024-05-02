@@ -7,6 +7,17 @@
 </div>
  <img src="https://komarev.com/ghpvc/?username=NAGULKS&style=flat-square&color=blue" alt=""/>
 </div>
+:man_technologist: About Me :
+<div >I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> and IoT Developer.
+ 
+- :telescope: I’m working as a IoT Developer and contributing to develope IoT components.
+
+- :seedling: Exploring Technical Content Writing.
+
+- :zap: In my free time, I work on Simulation tool on Cooja and IoT simulation.
+
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)]([your-linkedin-url](https://www.linkedin.com/in/nagul-k-s-b0047a217/))
+</div>
  :hammer_and_wrench: Languages and Tools :
 <div id="header" align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
