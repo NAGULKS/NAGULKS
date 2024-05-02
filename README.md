@@ -16,7 +16,7 @@
 
 - :zap: In my free time, I work on Simulation tool on Cooja and IoT simulation.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)]([your-linkedin-url](https://www.linkedin.com/in/nagul-k-s-b0047a217/))
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nagul-k-s-b0047a217/)
 </div>
  :hammer_and_wrench: Languages and Tools :
 <div id="header" align="center">
