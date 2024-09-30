@@ -8,7 +8,7 @@
 :man_technologist: About Me :
 <div >I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> and IoT Developer.
  
-- :telescope: I’m working as a IoT Developer and contributing to develope IoT components.
+- :telescope: I’m working as a Java Fullstack Developer and contributing to develope Websites.
 
 - :seedling: Exploring Technical Content Writing.
 
