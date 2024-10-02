@@ -32,5 +32,8 @@
 </div>
 :fire: My Status :
 <div id="header" align="center">
-<p align="center"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nagulks&show_icons=true&locale=en&layout=compact" alt="nagulks" /></p>
+  <p align="center" style="display: flex; justify-content: center;">
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nagulks&show_icons=true&locale=en&layout=compact" alt="nagulks" />
+  </p>
 </div>
+
