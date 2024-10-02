@@ -32,9 +32,6 @@
 </div>
 :fire: My Status :
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nagulks&show_icons=true&locale=en&layout=compact" alt="nagulks" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nagulks&show_icons=true&locale=en" alt="nagulks" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nagulks&" alt="nagulks" /></p>
 
 </div>
