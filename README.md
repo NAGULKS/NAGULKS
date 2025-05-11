@@ -10,15 +10,14 @@
 ---
 
 ### 👨‍💻 About Me
-<p>
-
+<div align="center">
 - 🔭 Currently pursuing internship as a **Java Full Stack Developer**
 - 🌐 Proficient in both **Frontend** & **Backend** development
 - 🤖 Passionate about **IoT, Arduino Projects, and AI**
 - 📘 Published in **IEEE** and **Scopus** journals
 - 💬 Ask me about anything in **React, Java, Web Dev, or Resume Design**
 - 🎯 Exploring **Open Source** and **Tech Blogging**
-- </p>
+</div>
 
 ---
 
