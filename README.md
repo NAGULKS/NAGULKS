@@ -92,9 +92,9 @@
 
 ### 📜 Certifications
 <p>
-- ✅ Java Full Stack Developer – Izeon
-- ✅ Web Development Training – OPTIMUS TECHNOCRATES
-- ✅ Deep Learning – IEEE Paper Publication
+- ✅ Java Full Stack Developer – Izeon <br> 
+- ✅ Web Development Training – OPTIMUS TECHNOCRATES <br> 
+- ✅ Deep Learning – IEEE Paper Publication <br> 
 </p>
 
 ---
@@ -103,7 +103,7 @@
 <p>
 - 🖥️ IoT Developer Intern – Magnertia TBI@KEC
   - Integrated hardware with software and uploaded data to the cloud.
-  - Developed IoT systems for real-time monitoring.
+  - Developed IoT systems for real-time monitoring.<br> 
   
 - ☕ Java Full Stack Developer Intern – Izeon
   - Assisted in frontend and backend development using Java technologies.
