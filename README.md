@@ -10,6 +10,7 @@
 ---
 
 ### 👨‍💻 About Me
+<p>
 
 - 🔭 Currently pursuing internship as a **Java Full Stack Developer**
 - 🌐 Proficient in both **Frontend** & **Backend** development
@@ -17,6 +18,7 @@
 - 📘 Published in **IEEE** and **Scopus** journals
 - 💬 Ask me about anything in **React, Java, Web Dev, or Resume Design**
 - 🎯 Exploring **Open Source** and **Tech Blogging**
+- </p>
 
 ---
 
@@ -73,33 +75,33 @@
 ---
 
 ### 💼 Projects
-
+<p>
 - 🎵 **Music Website** – Responsive music player with recently played tracking  
 - 🛒 **Suntraders** – PHP-based inventory and order management for a component store  
 - 🏠 **Sree Senthoor Tiles & Ceramics** – Company site with catalogue and admin panel  
 - 🌾 **Cotton Boll Recognition using CNN-U-Net** – Published smart farming research  
 - 🧩 **Spare Parts Management System** – End-to-end system using HTML, CSS, PHP, SQL  
 - 🤖 **IoT Smart Irrigation System** – Real-time moisture monitoring using sensors  
-
+</p>
 ---
 
 ### 📜 Certifications
-
+<p>
 - ✅ **Java Full Stack Developer** – Izeon
 - ✅ **Web Development Training** – OPTIMUS TECHNOCRATES
 - ✅ **Deep Learning** – IEEE Paper Publication
-
+</p>
 ---
 
 ### 💼 Internships
-
+<p>
 - 🖥️ **IoT Developer Intern** – Magnertia TBI@KEC
   - Integrated hardware with software and uploaded data to the cloud.
   - Developed IoT systems for real-time monitoring.
   
 - ☕ **Java Full Stack Developer Intern** – Izeon
   - Assisted in frontend and backend development using Java technologies.
-
+</
 ---
 
 ### 📈 GitHub Stats
