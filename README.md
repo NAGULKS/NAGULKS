@@ -87,6 +87,7 @@
 - 🧩 **Spare Parts Management System** – End-to-end system using HTML, CSS, PHP, SQL  
 - 🤖 **IoT Smart Irrigation System** – Real-time moisture monitoring using sensors  
 </p>
+
 ---
 
 ### 📜 Certifications
@@ -95,6 +96,7 @@
 - ✅ **Web Development Training** – OPTIMUS TECHNOCRATES
 - ✅ **Deep Learning** – IEEE Paper Publication
 </p>
+
 ---
 
 ### 💼 Internships
@@ -105,7 +107,8 @@
   
 - ☕ **Java Full Stack Developer Intern** – Izeon
   - Assisted in frontend and backend development using Java technologies.
-</
+</p>
+
 ---
 
 ### 📈 GitHub Stats
