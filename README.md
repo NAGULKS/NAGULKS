@@ -1,6 +1,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-  <br/>
+  <h1 align="center">Hi 👋, I'm Nagul K S</h1>
+  <h3 align="center">A Passionate Full Stack & IoT Developer from India</h3>
   <a href="https://www.linkedin.com/in/nagul-k-s-kvg2003/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
@@ -10,51 +11,77 @@
 
 ### 👨‍💻 About Me
 
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> and IoT Developer.
-
-- 🔭 I’m working as a **Java Fullstack Developer** and contributing to building dynamic websites.
-- 🌱 Exploring **Technical Content Writing**.
-- ⚡ In my free time, I work on **Frontend Designs**, **WordPress**, and simulation tools like **Cooja** and **Arduino**.
-- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nagul-k-s-kvg2003/)
+- 🔭 I’m currently working as a **Java Full Stack Developer**
+- 🌱 I’m actively exploring **Technical Content Writing** and **Open Source Contributions**
+- 💡 I’m passionate about **Frontend Designs**, **WordPress**, and **Simulations (Cooja, Arduino)**
+- 🎓 Published research on **Cotton Boll Detection using Deep Learning** in IEEE and Scopus Journals
+- 💬 Ask me about **React, Java, IoT, Web Dev, or Resume Design**
+- 📫 How to reach me: [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nagul-k-s-kvg2003/)
+- ⚡ Fun Fact: I enjoy riding and exploring new tech during my leisure time
 
 ---
 
 ### 🛠️ Languages and Tools
 
 <div align="center">
-  <p style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px;">
-    <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-    <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/>
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-    <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-    <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/>
-    <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/>
-    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
+  <p align="center">
+    <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/></a>
+    <a href="https://spring.io/" target="_blank"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring" width="40" height="40"/></a>
+    <a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/></a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/></a>
+    <a href="https://getbootstrap.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/></a>
+    <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/></a>
+    <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/></a>
+    <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a>
+    <a href="https://www.arduino.cc/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="40" height="40"/></a>
+    <a href="https://pytorch.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="40" height="40"/></a>
+    <a href="https://www.tensorflow.org" target="_blank"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40"/></a>
+    <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/></a>
+    <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/></a>
+    <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/></a>
   </p>
 </div>
 
 ---
 
-### 🔥 My GitHub Status
+### 💼 Projects
+
+- 🎵 **Music Website** – A feature-rich music UI with recent song history and responsive design  
+- 🛒 **Suntraders** – A PHP-based eCommerce platform for electronic components  
+- 🏠 **Sree Senthoor Tiles and Ceramics** – Business website with product showcase and admin panel  
+- 🌿 **Cotton Boll Recognition** – A deep learning project for smart agriculture, published in IEEE  
+- 🧩 **Spare Parts Management System** – Inventory tracking using PHP and MySQL  
+
+---
+
+### 📜 Certifications
+
+- 💻 **Java Full Stack Development** – Izeon Tech
+- 🌐 **Web Development** – OPTIMUS TECHNOCRATES
+- 🔬 **IoT & Embedded Systems** – Magnertia TBI@KEC
+- 🧠 **Deep Learning Specialization** – [FutureLearn / Coursera if available]
+
+---
+
+### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nagulks&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nagulks&show_icons=true&theme=radical" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nagulks&layout=compact&theme=radical" width="400"/>
 </div>
+
+---
+
+### 📈 GitHub Streak
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=nagulks&theme=dark&hide_border=true" alt="nagulks GitHub Streak"/>
+</div>
+
+---
+
+### 🙌 Let's Connect!
+
+- 📧 Email: nagulkvg2003@gmail.com  
+- 🌐 Portfolio: [Coming Soon or link if available]  
+- 📍 Location: Salem, Tamil Nadu, India  
