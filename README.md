@@ -1,6 +1,6 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-   <a href="https://www.linkedin.com/in/nagul-k-s-b0047a217/">
+   <a href="https://www.linkedin.com/in/nagul-k-s-kvg2003/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
  
@@ -14,7 +14,7 @@
 
 - :zap: In my free time, I work on Frontend Designs, Wordpress and Simulation tool like Cooja and Aurdino simulation.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nagul-k-s-b0047a217/)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nagul-k-s-kvg2003/)
 </div>
  :hammer_and_wrench: Languages and Tools :
 <div id="header" align="center">
