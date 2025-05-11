@@ -58,7 +58,7 @@
   <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="40" />
   <img src="https://img.icons8.com/ios/452/internet-of-things.png" alt="IoT" width="40" />
   <img src="https://www.raspberrypi.org/favicon.ico" alt="Raspberry Pi" width="40" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Cooja_logo.svg/1024px-Cooja_logo.svg.png" alt="Cooja Simulation" width="40" />
+  
 </p>
 
 #### 🔧 Tools & Others
@@ -66,8 +66,6 @@
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" />
   <img src="https://img.icons8.com/color/48/github--v1.png" alt="GitHub" width="40" />
   <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-visual-studio-code-is-a-source-code-editor-developed-by-microsoft-logo-color-tal-revivo.png" alt="VS Code" width="40" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9b/Eclipse_Logo.svg" alt="Eclipse" width="40" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Arduino_Logo.svg" alt="Arduino IDE" width="40" />
 </p>
 
 </div>
