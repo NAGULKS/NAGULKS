@@ -66,8 +66,8 @@
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" />
   <img src="https://img.icons8.com/color/48/github--v1.png" alt="GitHub" width="40" />
   <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-visual-studio-code-is-a-source-code-editor-developed-by-microsoft-logo-color-tal-revivo.png" alt="VS Code" width="40" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/46/Eclipse_Logo_2017.png" alt="Eclipse" width="40" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/08/Arduino_Logo.svg" alt="Arduino IDE" width="40" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9b/Eclipse_Logo.svg" alt="Eclipse" width="40" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Arduino_Logo.svg" alt="Arduino IDE" width="40" />
 </p>
 
 </div>
