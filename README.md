@@ -80,12 +80,12 @@
 
 ### 💼 Projects
 <p>
-- 🎵 Music Website – Responsive music player with recently played tracking  
-- 🛒 Suntraders – PHP-based inventory and order management for a component store  
-- 🏠 Sree Senthoor Tiles & Ceramics – Company site with catalogue and admin panel  
-- 🌾 Cotton Boll Recognition using CNN-U-Net – Published smart farming research  
-- 🧩 Spare Parts Management System – End-to-end system using HTML, CSS, PHP, SQL  
-- 🤖 IoT Smart Irrigation System – Real-time moisture monitoring using sensors  
+- 🎵 Music Website – Responsive music player with recently played tracking <br> 
+- 🛒 Suntraders – PHP-based inventory and order management for a component store  <br> 
+- 🏠 Sree Senthoor Tiles & Ceramics – Company site with catalogue and admin panel  <br> 
+- 🌾 Cotton Boll Recognition using CNN-U-Net – Published smart farming research  <br> 
+- 🧩 Spare Parts Management System – End-to-end system using HTML, CSS, PHP, SQL  <br> 
+- 🤖 IoT Smart Irrigation System – Real-time moisture monitoring using sensors  <br> 
 </p>
 
 ---
