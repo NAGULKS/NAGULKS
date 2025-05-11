@@ -104,7 +104,7 @@
 
 ### 📫 Contact Me
 
-- 📧 Email: nagulkvg2003@gmail.com  
+- 📧 Email: technagul01@gmail.com  
 - 🌐 LinkedIn: [nagul-k-s-kvg2003](https://www.linkedin.com/in/nagul-k-s-kvg2003/)  
 - 📍 Salem, Tamil Nadu, India  
 
